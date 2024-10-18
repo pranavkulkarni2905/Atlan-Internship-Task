@@ -53,10 +53,10 @@ The purpose of this project is to create a highly scalable logistics platform wh
 ## Architecture
 
 ### High-Level Architecture Diagram
-![Architecture Diagram]([link-to-diagram](https://drive.google.com/file/d/1ikEjfMKzstALf2der-R_BjZ--uVXKvrv/view?usp=sharing))
+![Architecture Diagram](https://drive.google.com/file/d/1ikEjfMKzstALf2der-R_BjZ--uVXKvrv/view?usp=sharing)
 
 ### Entity-Relationship (ER) Diagram
-![ER Diagram](link-to-er-diagram)
+![ER Diagram](https://drive.google.com/file/d/1HQcup934CdWI8Xd5dSi0UtPJYafLJQ7T/view?usp=sharing)
 
 ## Challenges
 
