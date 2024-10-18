@@ -146,9 +146,9 @@ To run the tests for this project, you can use the following command:
 
 ```bash
 npm test
-## Future Improvements
 ```
 
+## Future Improvements
 
 - **User Scheduling**: 
   Implement a feature that allows users to schedule future bookings. This would involve checking vehicle availability at the desired date and time, as well as considering potential delays due to traffic or weather conditions. The scheduling feature could also send notifications to the user as the scheduled time approaches.
