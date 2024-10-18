@@ -147,6 +147,8 @@ To run the tests for this project, you can use the following command:
 ```bash
 npm test
 ## Future Improvements
+```
+
 
 - **User Scheduling**: 
   Implement a feature that allows users to schedule future bookings. This would involve checking vehicle availability at the desired date and time, as well as considering potential delays due to traffic or weather conditions. The scheduling feature could also send notifications to the user as the scheduled time approaches.
@@ -175,3 +177,5 @@ Contributions are welcome and appreciated! If you would like to improve this pro
    ```bash
    git clone https://github.com/your-username/on-demand-logistics-platform.git
    cd on-demand-logistics-platform
+
+
