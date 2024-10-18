@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  client:
+    build:
+      context: ../logistics-platform-client
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=development
+
+  server:
+    build:
+      context: ../logistics-platform-server
+      dockerfile: Dockerfile
+    ports:
+      - "9000:9000"
+    environment:
+      - NODE_ENV=development
